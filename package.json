@@ -1,0 +1,14 @@
+{
+  "name": "mock-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview",
+    "mock": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

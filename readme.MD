@@ -7,7 +7,7 @@ This project sets up a mock server using Vite and Express to handle login reques
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/yourusername/mock-server.git
+    git clone https://github.com/lexzer42/mock-server.git
     cd mock-server
     ```
 
